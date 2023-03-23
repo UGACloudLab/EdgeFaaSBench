@@ -1,4 +1,4 @@
-# EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing
+# [EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9860334)
 
 ## What is EdgeFaaSBench?
 
@@ -9,8 +9,8 @@ EdgeFaaSBench contains 14 different serverless applications performing micro- an
 EdgeFaaSBench is developed on top of a widely used open-source FaaS (Function-as-a-Service) framework and container orchestration tool, [OpenFaaS](https://www.openfaas.com/) and [Docker Swarm](https://docs.docker.com/engine/swarm/).
 
 ## Publication
-* Kaustubh Rajendra Rajput, Chinmay Dilip Kulkarni, Byungjin Cho, Wei Wang, and In Kee Kim, "*EdgeFaaSBench: Benchmarking Edge Devices Using
-Serverless Computing*," In 2022 IEEE Internatinoal Conference on Edge Computing (EDGE), Barcelona Spain, July, 2022
+* Kaustubh Rajendra Rajput, Chinmay Dilip Kulkarni, Byungjin Cho, Wei Wang, and In Kee Kim, "*[EdgeFaaSBench: Benchmarking Edge Devices Using
+Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9860334)*," In 2022 IEEE Internatinoal Conference on Edge Computing (EDGE), Barcelona Spain, July, 2022
 
 ## Requirement
 * Edge Devices. 
